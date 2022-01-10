@@ -237,7 +237,7 @@ p{
     .end{
         margin-top: -10px;
         margin-left: 85px;
-        font-size: 1.2rem;
+        font-size: 1.1em;
         margin-bottom: 30px;
     }
     .tie h3{
@@ -327,16 +327,16 @@ p{
         text-align: center;
     }
     .end{
-        margin-top: -45px;
-        margin-left: 185px;
-        font-size: 1.2rem;
+        margin-top: -20px;
+        margin-left: 120px;
+        font-size: 1.1em;
         margin-bottom: 30px;
         
     }
     .tie h3{
         line-height: 30px;
-        width:100%;
-        font-size: 1.2rem;
+        width:98%;
+        font-size: 1em;
     }
     .header h1{
         width: 65%;
@@ -433,10 +433,10 @@ p{
     }
     .end{
         margin-top: -10px;
-        margin-left: 130px;
-        font-size: 1.2rem;
+        margin-left: 133px;
+        font-size: 1.2em;
         margin-bottom: 30px;
-        width: 69%;
+        width: 65%;
     }
     .tie h3{
         line-height: 25px;
